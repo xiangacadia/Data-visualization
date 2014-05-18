@@ -1,5 +1,5 @@
 ## Tutorial for the Lattice Ploting System
-## at Coursera Data Science - Eploratory Data Analysis
+## at Coursera Data Science - Exploratory Data Analysis
 ##
 ## The lattice plotting system is implemented using the following packages:
 ## - lattice: contains code for producing Trellis graphics, which are independent of the “base” graphics
